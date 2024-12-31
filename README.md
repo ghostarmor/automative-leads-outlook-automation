@@ -75,7 +75,7 @@ Challenges & Resolutions
 Outcome & Impact
 ----------------
 
--   **~40 Leads Captured**: The client reported about 400 successful leads during active use.
+-   **~400 Leads Captured**: The client reported about 400 successful leads during active use.
 -   **1-Second Response Advantage**: Delivered an edge over competitors in a high-stakes sales environment.
 -   **Time Saved**: Freed the salesperson from constantly refreshing email and racing to click links.
 -   **Cross-Platform Deployment**: Validated on both Mac and Windows, meeting the client's diverse needs.
